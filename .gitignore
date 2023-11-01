@@ -5,7 +5,7 @@
 /dist
 /tmp
 /out-tsc
-/Shopzen-Product-Management*
+/bin
 
 # dependencies
 /node_modules
