@@ -1,4 +1,6 @@
 <img src="https://github.com/Athiselva/Shopzen-SQL/blob/main/Microservice.jpg" alt="Microservice" width="550" height="300">
+
+
 # Node.js - Shopzen Product Management API
 
 This Node.js API handles product management operations with a MySQL database. It includes endpoints for fetching all products, fetching a product by ID, creating a new product, updating an existing product, and deleting a product by ID. The API uses the `mysql` library to connect to the database, and it loads environment variables from a `.env` file using `dotenv`.
